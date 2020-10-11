@@ -13,5 +13,5 @@ Date    : Oct 10, 2020
 #include <conio.h>
 
 void main(){
-    printf("\n\n\t Hello World");
+    printf("\n\n\t Hello World.");
 }
